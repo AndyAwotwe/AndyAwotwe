@@ -10,6 +10,6 @@
 - <b>Microsoft Azure</b>
   - [Introduction to Azure Portal](https://github.com/AndyAwotwe/azure-portal-b)
   - [Creating a Virtual Machine Network in Azure and inspecting Network Protocol](https://github.com/AndyAwotwe/virtualm-Net)
-  - [Introduction to Azure Portal](https://github.com/AndyAwotwe/azure-portal-b)
+  - [Installing and Configuring Active Directory in Azure VMs](https://github.com/AndyAwotwe/azure-ad)
   - [Introduction to Azure Portal](https://github.com/AndyAwotwe/azure-portal-b)
   - [Introduction to Azure Portal](https://github.com/AndyAwotwe/azure-portal-b)
