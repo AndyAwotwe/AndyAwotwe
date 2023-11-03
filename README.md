@@ -11,5 +11,5 @@
   - [Introduction to Azure Portal](https://github.com/AndyAwotwe/azure-portal-b)
   - [Creating a Virtual Machine Network in Azure and inspecting Network Protocol](https://github.com/AndyAwotwe/virtualm-Net)
   - [Installing and Configuring Active Directory in Azure VMs](https://github.com/AndyAwotwe/azure-ad)
-  - [Introduction to Azure Portal](https://github.com/AndyAwotwe/azure-portal-b)
-  - [Introduction to Azure Portal](https://github.com/AndyAwotwe/azure-portal-b)
+  - [Network File-Sharing and Permissions in Active Directory](https://github.com/AndyAwotwe/azure-portal-b)
+  
